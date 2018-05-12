@@ -1,0 +1,34 @@
+_repo: Camping-For-Boys_14759
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gibson, H. W. (Henry William)
+    alias: Gibson, Henry William
+    birthdate: 1867
+    gutenberg_agent_id: '5670'
+    url: http://www.gutenberg.org/2009/agents/5670
+description: Do you know how to make a camp bed, test the freshness of an egg or light
+  a match when there is nothing to strike it on? From setting up camp to choosing
+  a motto, treating blisters to making a bow and arrow, Camping for Boys will ensure
+  a happy, healthy time is had by all when out of doors. First published in 1913 in
+  an era before televisions and video games, Camping for boys was an indispensable
+  guide for any young boy wanting to make the most of the great outdoors. With sections
+  on games for a rainy day, first aid, cooking, building and maintaining the campfire,
+  nature study, forecastin.
+gutenberg_bookshelf: Children's Instructional Books
+gutenberg_issued: '2005-01-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14759'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'SK'
+- !lcsh 'Camping'
+title: Camping For Boys
+url: http://www.gutenberg.org/ebooks/14759
